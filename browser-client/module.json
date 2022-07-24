@@ -1,0 +1,9 @@
+{
+    "type": "sandbox",
+    "name": "browser-client",
+    "version": "1.0.0",
+    "excludes": [
+        "node_modules/",
+        "build/"
+    ]
+}
